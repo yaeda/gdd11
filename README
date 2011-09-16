@@ -1,0 +1,5 @@
+slide puzzle solver for Google Developer Day 2011 Dev Quiz
+
+python solve.py -i problems.txt
+python solve.py -i problems.txt -s 0 -e 100
+python solve.py -i problems.txt -r some_result_file
